@@ -1,4 +1,4 @@
-# JSScanner
+# JSOWned
 
 ## Using
 
