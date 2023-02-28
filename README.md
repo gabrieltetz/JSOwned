@@ -4,7 +4,7 @@
 
 ```
 positional arguments:
-  input_path            caminho do arquivo de entrada contendo os IPs
+  input_path            caminho do arquivo de entrada contendo as URLs
   regex_path            caminho do arquivo de regex
 
 options:
