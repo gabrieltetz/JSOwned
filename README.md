@@ -14,9 +14,9 @@ options:
 ## Exemple 
 
 ```
-python3 JSScanner.py crawlingJS.txt regex.txt
+python3 JSOwned.py crawlingJS.txt regex.txt
 ```
 
 ```
-python3 JSScanner.py crawlingJS.txt regex.txt -o output.js
+python3 JSOwned.py crawlingJS.txt regex.txt -o output.js
 ```
