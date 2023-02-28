@@ -1,7 +1,7 @@
 # JSOwned
 
 
-## Using
+## Install
 ```
 git clone git@github.com:gabrieltetz/JSOwned.git
 cd JSOwned
