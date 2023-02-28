@@ -1,5 +1,15 @@
 # JSOwned
 
+
+## Using
+```
+git clone git@github.com:gabrieltetz/JSOwned.git
+cd JSOwned
+pip3 install -r requirements.txt
+JSO
+
+```
+
 ## Using
 
 ```
@@ -20,3 +30,4 @@ python3 JSOwned.py crawlingJS.txt regex.txt
 ```
 python3 JSOwned.py crawlingJS.txt regex.txt -o output.js
 ```
+
