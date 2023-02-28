@@ -6,7 +6,7 @@
 git clone git@github.com:gabrieltetz/JSOwned.git
 cd JSOwned
 pip3 install -r requirements.txt
-JSO
+python3 JSowned.py crawlingJS.txt regex.txt
 
 ```
 
