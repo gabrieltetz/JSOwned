@@ -1,4 +1,4 @@
-# JSOWned
+# JSOwned
 
 ## Using
 
